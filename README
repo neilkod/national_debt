@@ -1,1 +1,5 @@
 retrieves the national debt and population, tweets it, and writes it to a file
+
+the program expects a configuration file named config.cfg that matches the format
+of example_config.cfg. 
+
