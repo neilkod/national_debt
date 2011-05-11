@@ -1,5 +1,9 @@
 retrieves the national debt and population, tweets it, and writes it to a file
 
+national debt and population are retrieved from the us treasury and census sites
+using beautifulsoup
+
 the program expects a configuration file named config.cfg that matches the format
 of example_config.cfg. 
 
+includes functions get_national_debt() and get_us_population() 
