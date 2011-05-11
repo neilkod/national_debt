@@ -1,5 +1,7 @@
 retrieves the national debt and population, tweets it, and writes it to a file
 
+example twitter output: http://twitter.com/#!/USADebtLevel/status/68023831498997760
+
 national debt and population are retrieved from the us treasury and census sites
 using beautifulsoup
 
